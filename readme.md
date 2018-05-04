@@ -6,4 +6,4 @@
 ## Monitoring
 
 - [Prometheus: Up & Running: Infrastructure and Application Performance Monitoring, O'Reilly](https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142) - comprehensive book about monitoring with Prometheus.
-- [Micrometer: Spring Boot 2's new application metrics collector](https://spring.io/blog/2018/03/16/micrometer-spring-boot-2-s-new-application-metrics-collector) - introduction article into the Micrometer metrics support in Spring Boot
+- [Micrometer: Spring Boot 2's new application metrics collector](https://spring.io/blog/2018/03/16/micrometer-spring-boot-2-s-new-application-metrics-collector) - introduction article into the Micrometer metrics support in Spring Boot.
