@@ -11,4 +11,4 @@
 ## GoLang
 
 - [Introducing Go, O'Reilly](https://www.amazon.com/Introducing-Go-Reliable-Scalable-Programs/dp/1491941952) - quick and short introduction book about GoLang.
-- [Go In Practice, Manning](https://www.amazon.com/Go-Practice-Techniques-Matt-Butcher/dp/1633430073) - comprehnsive book about GoLang focused on practicle recipes to get things done. Good for beginners and for those willing to harden their Go skills.
+- [Go In Practice, Manning](https://www.amazon.com/Go-Practice-Techniques-Matt-Butcher/dp/1633430073) - comprehnsive book about GoLang focused on practical recipes to get things done. Good for beginners and for those willing to harden their Go skills.
