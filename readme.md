@@ -12,6 +12,7 @@
 
 - ["The Differences Between Kubernetes and Openshift" blog post by Levvel](https://medium.com/levvel-consulting/the-differences-between-kubernetes-and-openshift-ae778059a90e) - blog post on major differences between OpenShift and vanilla Kubernetes.
 - ["OpenShift Enterprise 3.1 vs kubernetes" presentation by Red Hat Samuel Terburg](https://www.slideshare.net/SamuelTerburg/openshift-enterprise-31-vs-kubernetes) - presentation from Red Hat on value added by OpenShift into vailla Kubernetes.
+- ["Differences between OpenShift and Kubernetes" topic on StackOverflow](https://stackoverflow.com/questions/42678061/differences-between-openshift-and-kubernetes) - short but interesting topic on vanilla Kubernetes vs OpenShift differences.
 
 ## GoLang
 
