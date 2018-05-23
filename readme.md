@@ -14,6 +14,7 @@
 - ["OpenShift Enterprise 3.1 vs kubernetes" presentation by Red Hat Samuel Terburg](https://www.slideshare.net/SamuelTerburg/openshift-enterprise-31-vs-kubernetes) - presentation from Red Hat on value added by OpenShift into vailla Kubernetes.
 - [Differences between OpenShift and Kubernetes](https://stackoverflow.com/questions/42678061/differences-between-openshift-and-kubernetes) - short but interesting topic on StackOverflow on vanilla Kubernetes vs OpenShift differences.
 - [OpenShift vs vanilla Kubernetes comparison matrix](https://www.openshift.com/learn/topics/kubernetes) - official OpenShift documentation on differences between OpenShift and vanilla Kubernetes.
+- [Reddit tread on Openshift Origin vs Kubernetes](https://www.reddit.com/r/devops/comments/59ql4r/openshift_origin_vs_kubernetes/) - Reddit users sharing their reasoning behind and experiences related with OpenShift vs Kubernetes decisons.
 
 ## GoLang
 
