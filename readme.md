@@ -10,11 +10,11 @@
 
 ## Kubernetes
 
-- ["Kubernetes: Up and Running"](http://shop.oreilly.com/product/0636920043874.do) - quick introduction to Kubernets by all-stars team Kelsey Hightower, Brendan Burns, and Joe Beda.
+- [Kubernetes: Up and Running, O'Reilly](http://shop.oreilly.com/product/0636920043874.do) - quick introduction to Kubernets by all-stars team Kelsey Hightower, Brendan Burns, and Joe Beda.
 
 ## OpenShift
 
-- ["The Differences Between Kubernetes and Openshift" blog post by Levvel](https://medium.com/levvel-consulting/the-differences-between-kubernetes-and-openshift-ae778059a90e) - blog post on major differences between OpenShift and vanilla Kubernetes.
+- [The Differences Between Kubernetes and Openshift](https://medium.com/levvel-consulting/the-differences-between-kubernetes-and-openshift-ae778059a90e) - blog post by consulting company Levvel on major differences between OpenShift and vanilla Kubernetes.
 - ["OpenShift Enterprise 3.1 vs kubernetes" presentation by Red Hat Samuel Terburg](https://www.slideshare.net/SamuelTerburg/openshift-enterprise-31-vs-kubernetes) - presentation from Red Hat on value added by OpenShift into vailla Kubernetes.
 - [Differences between OpenShift and Kubernetes](https://stackoverflow.com/questions/42678061/differences-between-openshift-and-kubernetes) - short but interesting topic on StackOverflow on vanilla Kubernetes vs OpenShift differences.
 - [OpenShift vs vanilla Kubernetes comparison matrix](https://www.openshift.com/learn/topics/kubernetes) - official OpenShift documentation on differences between OpenShift and vanilla Kubernetes.
