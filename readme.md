@@ -11,6 +11,9 @@
 ## Kubernetes
 
 - [Kubernetes: Up and Running, O'Reilly](http://shop.oreilly.com/product/0636920043874.do) - quick introduction to Kubernets by all-stars team Kelsey Hightower, Brendan Burns, and Joe Beda.
+- [Kubernetes Ingress documentation](https://kubernetes.io/docs/concepts/services-networking/ingress) - official Kubernetes Ingress documentation.
+- [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0) - Google Cloud blost post explaining different Kubernets service exposing strategies.
+- [Kubernetes Ingress 101: NodePort, Load Balancers, and Ingress Controllers](https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d) - Ambassador blost post explaining different Kubernets service exposing strategies.
 
 ## OpenShift
 
