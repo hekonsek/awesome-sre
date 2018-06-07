@@ -8,12 +8,16 @@
 - [Prometheus: Up & Running: Infrastructure and Application Performance Monitoring, O'Reilly](https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142) - comprehensive book about monitoring with Prometheus.
 - [Micrometer: Spring Boot 2's new application metrics collector](https://spring.io/blog/2018/03/16/micrometer-spring-boot-2-s-new-application-metrics-collector) - introduction article into the Micrometer metrics support in Spring Boot.
 
-## Kubernetes
+## Load balancing and ingress
 
-- [Kubernetes: Up and Running, O'Reilly](http://shop.oreilly.com/product/0636920043874.do) - quick introduction to Kubernets by all-stars team Kelsey Hightower, Brendan Burns, and Joe Beda.
+- [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236) - great summary of the current state of load balancers by Lyft's Matt Klein.
 - [Kubernetes Ingress documentation](https://kubernetes.io/docs/concepts/services-networking/ingress) - official Kubernetes Ingress documentation.
 - [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0) - Google Cloud blost post explaining different Kubernets service exposing strategies.
 - [Kubernetes Ingress 101: NodePort, Load Balancers, and Ingress Controllers](https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d) - Ambassador blost post explaining different Kubernets service exposing strategies.
+
+## Kubernetes
+
+- [Kubernetes: Up and Running, O'Reilly](http://shop.oreilly.com/product/0636920043874.do) - quick introduction to Kubernets by all-stars team Kelsey Hightower, Brendan Burns, and Joe Beda.
 
 ## OpenShift
 
