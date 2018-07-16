@@ -37,3 +37,4 @@
 - [Global Continuous Delivery with Spinnaker](https://medium.com/netflix-techblog/global-continuous-delivery-with-spinnaker-2a6896c23ba7) - blog post from Netflix announcing release of Spinnaker.
 - [Easily Automate Your CI/CD Pipeline With Jenkins, Helm, and Kubernetes](https://dzone.com/articles/easily-automate-your-cicd-pipeline-with-jenkins-he) - DZone article on creating generic Kubernetes CI/CD pipeline
 - [Spinnaker over Jenkins X for Enterprise](https://blog.armory.io/spinnaker-over-jenkins-x-for-enterprise/) - slightly biased article from [armory.io](https://armory.io)(provider of Spinnaker-based solutions) comparing Spinnaker and Jenkins-X. Although biased, article still provides some valid points.  
+- [Jenkins-X page](https://jenkins-x.io) - main page of Jenkins-X project.
