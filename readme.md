@@ -27,6 +27,10 @@
 - [OpenShift vs vanilla Kubernetes comparison matrix](https://www.openshift.com/learn/topics/kubernetes) - official OpenShift documentation on differences between OpenShift and vanilla Kubernetes.
 - [Reddit tread on Openshift Origin vs Kubernetes](https://www.reddit.com/r/devops/comments/59ql4r/openshift_origin_vs_kubernetes/) - Reddit users sharing their reasoning behind and experiences related with OpenShift vs Kubernetes decisons.
 
+## Serverless
+
+- [IBM Cloud teams with Google and open community to help build Knative and expand the power of serverless](https://www.ibm.com/blogs/cloud-computing/2018/07/24/ibm-cloud-google-knative-serverless/) - blog post describing how Knative relates to OpenWhisk. 
+
 ## GoLang
 
 - [Introducing Go, O'Reilly](https://www.amazon.com/Introducing-Go-Reliable-Scalable-Programs/dp/1491941952) - quick and short introduction book about GoLang.
